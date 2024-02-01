@@ -1,2 +1,2 @@
 # Exercises_1_Data-Analysis
-this exercises include simple visualization, filtering method, and creating date column based on day, month, year column and changes its data type
+This is Exercises Repository from Data Analytics with Python by Free_Code_Camp
